@@ -1,6 +1,6 @@
 Pod::Spec.new do |spec|
   spec.name = 'boost-for-react-native'
-  spec.version = '1.63.0-1'
+  spec.version = '1.63.0'
   spec.license = { :type => 'Boost Software License', :file => "LICENSE_1_0.txt" }
   spec.homepage = 'http://www.boost.org'
   spec.summary = 'Boost provides free peer-reviewed portable C++ source libraries.'
